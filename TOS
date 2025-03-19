@@ -1,0 +1,66 @@
+### **Terms of Service for Goose**  
+**Last Updated:** **Wed, Mar 19, 2025, at 4:30 PM**  
+
+Welcome to **Goose**. By using this bot, you agree to the following terms.  
+
+---
+
+## **1. Acceptance of Terms**  
+By using **Goose** (the "Bot"), you agree to follow these Terms of Service. If you do not agree with these terms, do not use the Bot.  
+
+---
+
+## **2. Description of Service**  
+**Goose** provides the following features:  
+- **Responds to mentions with a specific message**  
+- **Executes slash commands for specific actions**  
+
+---
+
+## **3. Required Permissions**  
+For the bot to function properly, it requests the following permissions:  
+
+- **Read Messages** – The bot can read messages in the server to detect when it is mentioned.  
+- **Presence** – The bot can see the online status of server members and what they are doing.  
+- **Members** – The bot can see the list of members, their roles, nicknames, and permission changes.  
+
+These permissions are only used for the bot’s intended functions and are not used to track or collect unnecessary user data.  
+
+---
+
+## **4. User Responsibilities**  
+When using **Goose**, you agree to:  
+- Follow Discord's Terms of Service ([Discord ToS](https://discord.com/terms)).  
+- Not abuse or exploit the bot, such as spamming commands or attempting to crash servers.  
+- Use the bot in a lawful manner and respect other users.  
+
+---
+
+## **5. Privacy and Data Collection**  
+- **Goose** may collect limited data, such as:  
+  - User IDs for command processing.  
+  - Server IDs for settings and configurations.  
+- The bot does not store sensitive information such as messages or passwords.  
+
+
+---
+
+## **6. Bot Availability and Changes**  
+- The developers reserve the right to modify, update, or discontinue the bot at any time.  
+- The bot's availability depends on Discord's API and server uptime, which may cause occasional downtime.  
+
+---
+
+## **7. Termination of Service**  
+- Users who violate these terms may be banned from using the bot.  
+- Servers that abuse the bot may be blacklisted without notice.  
+- If a user or server is found to be **engaging in malicious activities, harassment, or violating Discord’s guidelines**, the bot may **automatically restrict access** to them.  
+- Repeated abuse of the bot, including **attempts to exploit its commands, flood requests, or disrupt service for others**, will result in **a permanent ban** from interacting with the bot.  
+- The developers reserve the right to **terminate access without prior warning** if the bot is used in ways that **harm the experience of others or violate its intended purpose**.  
+- If a user believes their access was removed unfairly, they may submit an appeal via the **[Goose Support Server](https://discord.gg/Bqf45QRpDU)**, but restoration of access is **not guaranteed**.  
+
+---
+
+## **8. Contact Information**  
+For any questions regarding these Terms of Service, contact:  
+- **Discord Support Server:** [Goose Support Server](https://discord.gg/Bqf45QRpDU)  
