@@ -1,0 +1,52 @@
+PRIVACY POLICY FOR GOOSE  
+
+Last Updated: Wed, Mar 19, 2025, at 5:50 PM  
+
+Goose ("the Bot") is a Discord bot designed to respond to mentions and execute specific commands. This Privacy Policy explains what data the bot collects, how it is used, and how users can manage their information.  
+
+1. Information Collected  
+
+Goose only collects limited, necessary data for functionality. The bot does not collect or store personal messages, passwords, or sensitive information.  
+
+Data Collected  
+
+User IDs – Used for command processing and logging interactions.  
+Server IDs – Used to store server-specific settings and configurations.  
+Message Mentions – The bot listens for mentions to respond but does not store message content.  
+Presence Information – If enabled, the bot may check online statuses to provide real-time interactions.  
+
+2. How We Use Collected Data  
+
+The collected data is only used for the following purposes  
+
+Executing bot commands and responding to mentions.  
+Ensuring bot functionality and improving performance.  
+Preventing abuse, such as detecting spam or unauthorized access.  
+
+No data is shared with third parties or used for advertising, tracking, or marketing purposes.  
+
+3. Data Storage and Security  
+
+Goose does not permanently store any collected data.  
+User and server data are only temporarily processed while the bot is running.  
+The bot does not log or save chat messages.  
+If logs are generated for debugging, they are automatically deleted after a short period.  
+
+4. Third-Party Services  
+
+Goose operates within Discord's ecosystem and relies on Discord's API. Users should also review Discord’s Privacy Policy at https://discord.com/privacy as interactions with the bot occur within Discord's platform.  
+
+5. User Rights and Data Removal  
+
+Goose does not store user data long-term, but if users want their interaction data removed from temporary logs, they can contact the Goose Support Server at https://discord.gg/Bqf45QRpDU.  
+If the bot is removed from a server, all related server settings are automatically deleted.  
+
+6. Changes to This Privacy Policy  
+
+The developers of Goose reserve the right to update this Privacy Policy at any time. Changes will be reflected in the "Last Updated" date at the top of this document. Continued use of the bot after changes indicates acceptance of the updated policy.  
+
+7. Contact Information  
+
+For any privacy concerns or data inquiries, contact us via  
+Discord Support Server https://discord.gg/Bqf45QRpDU  
+Copy the link and add it to the Discord Developer Portal under "Application Privacy Policy URL."
